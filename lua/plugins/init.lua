@@ -4,7 +4,8 @@ return {
   require("plugins.mason"),
   require("plugins.mini-icons"),
   require("plugins.nvim-tree"),
-  require("plugins.nvim-lsp"),
+  require("plugins.nvim-lsp"),
+  require("plugins.avante"),
   -- Completion & snippets
   { "hrsh7th/nvim-cmp" },
   { "hrsh7th/cmp-nvim-lsp" },
